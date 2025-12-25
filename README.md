@@ -71,7 +71,7 @@ Add 1–3 bullet points per project (goal, stack, outcome) and I'll format them 
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=helaluddin-swe&show_icons=true&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=helaluddin-swe&show_icons=true&theme=radical)](https://github.com/helaluddin-swe)
 
 ---
 
