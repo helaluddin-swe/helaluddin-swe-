@@ -30,17 +30,8 @@ Discipline, patience, and consistency
 
 Ability to balance learning, freelancing, exams, and projects
 
-🎯 Targets for 2025 & Achievement Status
-Target	Result
-Strong full-stack fundamentals	✅ Achieved
-Real-world academic & personal projects	✅ Achieved
-Daily DSA & problem-solving habit	✅ Achieved
-English speaking improvement	✅ Achieved (foundation built)
-BCS syllabus preparation	🔄 Ongoing
-Consistent daily routine	✅ Achieved
-Personal branding & LinkedIn content	✅ Achieved
-💰 Financial Review – 2025
-📌 Financial Reality
+
+
 
 2025 was not about luxury—it was about financial discipline and awareness.
 
